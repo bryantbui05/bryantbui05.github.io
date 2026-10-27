@@ -13,6 +13,11 @@ header {
     margin-bottom: 40px;
 }
 
+#hero-banner {
+    border-bottom: 2px dashed #3a3834;
+    padding-bottom: 30px;
+}
+
 h1 {
     color: #ece7de;
     text-transform: uppercase;
