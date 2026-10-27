@@ -53,6 +53,11 @@ img {
 a {
     color: #d6d0c4;
     text-decoration: underline;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    color: #b83838;
 }
 
 .archive-section {
