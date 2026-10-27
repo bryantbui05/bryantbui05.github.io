@@ -4,12 +4,6 @@ body {
     font-family: "Courier New", Courier, monospace;
     line-height: 1.6;
 }
-body {
-    background-color: #0e0e10;
-    color: #cfcac0;
-    font-family: "Courier New", Courier, monospace;
-    line-height: 1.6;
-}
 
 header {
     text-align: center;
@@ -42,35 +36,8 @@ a {
     color: #d6d0c4;
     text-decoration: underline;
 }
-header {
-    text-align: center;
-}
 
-h1 {
-    color: #ece7de;
-    text-transform: uppercase;
-    letter-spacing: 4px;
+.archive-section {
+    background-color: #161619;
+    border-left: 3px solid #565046;
 }
-
-h2 {
-    color: #b5afa3;
-    text-transform: uppercase;
-    letter-spacing: 2px;
-}
-
-p {
-    color: #aaa498;
-}
-
-img {
-    max-width: 100%;
-    height: auto;
-    display: inline-block;
-    filter: contrast(105%) brightness(95%);
-}
-
-a {
-    color: #d6d0c4;
-    text-decoration: underline;
-}
-
